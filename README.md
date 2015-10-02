@@ -1,4 +1,4 @@
-# estimating-multiple-homographies-with-full-consistency-constraints
+# Estimating Multiple Homographies With Full Consistency Constraints
  MATLAB implementations of algorithms for estimating multiple homography matrices between two views of a piecewise planar scene such that all consistency constraints between homography matrices are enforced.
 
 For more details refer to the publications:
